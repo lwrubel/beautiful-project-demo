@@ -15,7 +15,7 @@ url: "https://lwrubel.github.io/beautiful-project-demo"
 
 # baseurl should be an empty string
 # baseurl: ""
-baseurl: "/beautiful-project-demo"
+baseurl: ""
 
 # --- Navigation bar options --- #
 
