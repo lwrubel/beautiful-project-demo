@@ -11,9 +11,11 @@ description: Example website for library workshop at GWU
 
 # url is the the website domain URL without a trailing slash
 #url: "https://example.com"
+url: "http://lwrubel.github.io/beautiful-project-demo"
 
 # baseurl should be an empty string
 # baseurl: ""
+baseurl: "/beautiful-project-demo"
 
 # --- Navigation bar options --- #
 
