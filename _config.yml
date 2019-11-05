@@ -1,10 +1,9 @@
 # --- General options --- #
 
 # Name of website
-title: My website
-
+title: My Website
 # Short description of your site
-description: A virtual proof that I'm awesome
+description: Example website for library workshop at GWU
 
 # --- Local development options ---
 # If your website is hosted locally rather than on GitHub, then you need to uncomment the next two parameters to set the url and baseurl
@@ -60,7 +59,7 @@ footer-link-col: "#404040"
 # Change all these values or delete the ones you don't want.
 # Important: you must keep the "name" parameter, everything else you can remove
 author:
-  name: Some Person
+  name: Laura Wrubel
 
 # Select your active Social Network Links.
 # Uncomment the links you want to show in the footer and add your information to each link.
@@ -69,9 +68,9 @@ author:
 social-network-links:
   rss: true
   email: "someone@example.com"
-  facebook: deanattali
-  github: daattali
-  twitter: daattali
+  facebook: 
+  github: lwrubel
+  twitter: 
 #  reddit: yourname
 #  linkedin: daattali
 #  xing: yourname
@@ -88,7 +87,7 @@ social-network-links:
 # Select which share links to show in posts
 share-links-active:
   twitter: true
-  facebook: true
+  facebook: false
   linkedin: true
 
 # How to display the link to the website in the footer
