@@ -25,7 +25,8 @@ navbar-links:
   Resources:
     - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
     - Learn markdown: "http://www.markdowntutorial.com/"
-  Author's home: "http://deanattali.com"
+  Background: "background"
+  Visualizations: "viz"
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
@@ -39,7 +40,7 @@ navbar-links:
 
 # Personalize the colors in your website. Colour values can be any valid CSS colour
 
-navbar-col: "#F5F5F5"
+navbar-col: "#31a8a0"
 navbar-text-col: "#404040"
 navbar-children-col: "#F5F5F5"
 page-col: "#FFFFFF"
@@ -52,9 +53,9 @@ footer-link-col: "#404040"
 # Alternatively, the navbar, footer, and page background can be set to use background images
 # instead of colour
 
-# navbar-img: "/img/clouds-banner.jpg"
+# navbar-img: "/img/beach.jpg"
 # footer-img: "/img/bgimage.png"
-page-img: "/img/clouds-banner.jpg"
+# page-img: "/img/clouds-banner.jpg"
 
 # --- Footer options --- #
 
