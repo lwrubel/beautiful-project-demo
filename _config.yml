@@ -1,7 +1,7 @@
 # --- General options --- #
 
 # Name of website
-title: My Website
+title: My Example Project
 # Short description of your site
 description: Example website for library workshop at GWU
 
@@ -21,9 +21,9 @@ description: Example website for library workshop at GWU
 
 # List of links in the navigation bar
 navbar-links:
-  About Me: "aboutme"
+  # About Me: "aboutme"
   Resources:
-    - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
+    - Example Site: "http://deanattali.com/beautiful-jekyll/"
     - Learn markdown: "http://www.markdowntutorial.com/"
   Background: "background"
   Visualizations: "viz"
